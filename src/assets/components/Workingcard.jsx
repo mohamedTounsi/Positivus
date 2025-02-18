@@ -12,7 +12,7 @@ function Workingcard({ number, question, parag }) {
       <div className="flex items-center justify-between px-10 py-8">
         <div className="flex items-center justify-start gap-4 ">
           <p className="text-4xl lg:text-5xl">{number}</p>
-          <p className="text-2xl md:text-2xl lg:text-3xl ">{question}</p>
+          <p className="text-md md:text-2xl lg:text-3xl ">{question}</p>
         </div>
         {accordionOpen ? (
           <img src="minusicon.png" className="w-[50px]" />

@@ -1,15 +1,15 @@
 function Home() {
   return (
-    <section>
+    <section className="px-4">
       <div className="w-[85%] mx-auto flex flex-col md:flex-row justify-between items-center mt-[50px] mb-20 ">
-        <div className="w-[400px] md:w-[700px] max-w-full md:order-2">
+        <div className="w-[70%] md:w-4/10 max-w-full md:order-2">
           <img
             src="Illustration.png"
             className="w-full h-fit
           "
           />
         </div>
-        <div className="flex  flex-col items-center md:items-start   md:order-1">
+        <div className="flex  flex-col items-center md:items-start   md:order-1 w-6/10">
           <h1 className="text-[40px] md:text-[40px] lg:text-[70px] font-bold mb-5 text-center md:text-start ">
             Navigating the <br /> digital landscape <br /> for success
           </h1>
