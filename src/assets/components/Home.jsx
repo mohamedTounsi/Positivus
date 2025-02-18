@@ -5,7 +5,7 @@ function Home() {
         <div className="w-[70%] md:w-4/10 max-w-full md:order-2">
           <img
             src="Illustration.png"
-            className="h-[20%] md:w-full md:h-fit
+            className=" w-[300px] h-[270px] md:w-full md:h-fit
           "
           />
         </div>
