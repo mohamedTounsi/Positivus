@@ -11,7 +11,7 @@ function Header() {
       <div className="w-[85%] mx-auto flex justify-between items-center pt-[30px]">
         <div className="w-[200px]  mr-[20px]">
           <img
-            src="/src/assets/images/logo.png"
+            src="Logo.png"
             className=" ml-[10px] cursor-pointer "
             alt="Logo"
           />
@@ -39,7 +39,7 @@ function Header() {
 
         <ul className="hidden md:flex md:justify-between md:items-center gap-[20px] whitespace-nowrap ">
           <li className="cursor-pointer relative group ">
-            About Us
+            About us
             <span className="absolute left-0 bottom-0 h-[2px] w-0 bg-[#B0FA00] transition-all duration-300 group-hover:w-full"></span>
           </li>
           <li className="cursor-pointer relative group ">
