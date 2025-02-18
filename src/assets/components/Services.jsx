@@ -59,7 +59,7 @@ function Services() {
       arrow: "greenArrow",
       bgcolor: "#F3F3F3",
       learnMore: "Learn More",
-      image: "illustration1",
+      image: "Illustration1",
     },
     {
       title: "Pay-per-click advertizing",
@@ -67,7 +67,7 @@ function Services() {
       arrow: "greenArrow",
       bgcolor: "#B9FF66",
       learnMore: "Learn More",
-      image: "illustration2",
+      image: "Illustration2",
     },
     {
       title: "Social Media Marketing",
@@ -75,15 +75,15 @@ function Services() {
       arrow: "whiteArrow",
       bgcolor: "#191A23",
       learnMore: "Learn More",
-      image: "illustration3",
+      image: "Illustration3",
     },
     {
-      title: "Email Marketing",
+      title: "EmaIl Marketing",
       titlebg: "#B9FF66",
       arrow: "greenArrow",
       bgcolor: "#F3F3F3",
       learnMore: "Learn More",
-      image: "illustration4",
+      image: "Illustration4",
     },
     {
       title: "Content Creation",
@@ -91,7 +91,7 @@ function Services() {
       arrow: "greenArrow",
       bgcolor: "#B9FF66",
       learnMore: "Learn More",
-      image: "illustration5",
+      image: "Illustration5",
     },
     {
       title: "Analytics and Tracking",
@@ -99,7 +99,7 @@ function Services() {
       arrow: "whiteArrow",
       bgcolor: "#191A23",
       learnMore: "Learn More",
-      image: "illustration6",
+      image: "Illustration6",
     },
   ]);
   return (

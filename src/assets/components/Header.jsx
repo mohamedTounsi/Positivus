@@ -39,7 +39,7 @@ function Header() {
 
         <ul className="hidden md:flex md:justify-between md:items-center gap-[20px] whitespace-nowrap ">
           <li className="cursor-pointer relative group ">
-            About us
+            About Us
             <span className="absolute left-0 bottom-0 h-[2px] w-0 bg-[#B0FA00] transition-all duration-300 group-hover:w-full"></span>
           </li>
           <li className="cursor-pointer relative group ">
@@ -71,11 +71,7 @@ function Header() {
       >
         <ul className="flex flex-col font-semibold">
           <li>
-            <img
-              src="/src/assets/images/logo.png"
-              className="mb-4 cursor-pointer"
-              alt="Logo"
-            />
+            <img src="Logo.png" className="mb-4 cursor-pointer" alt="Logo" />
           </li>
           <li className="cursor-pointer relative group py-3.5 border-b border-[#808080] w-[90%] ">
             About Us

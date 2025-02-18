@@ -91,7 +91,7 @@ function Casestudies() {
                 <p className="text-[#B9FF66] text-xl font-semibold">
                   Learn More
                 </p>
-                <img src="/src/assets/images/greenArrow.png" alt="" />
+                <img src="greenArrow.png" alt="" />
               </div>
             </div>
           ))}

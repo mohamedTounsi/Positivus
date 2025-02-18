@@ -18,7 +18,7 @@ function Happen() {
       <div>
         <img
           className="hidden md:block cursor-pointer "
-          src="/src/assets/images/frame.png"
+          src="frame.png"
           alt=""
         />
       </div>

@@ -66,7 +66,7 @@ function Contactus() {
           </div>
         </div>
         <div className="hidden lg:block">
-          <img src="/src/assets/images/halfimage.png" alt="" />
+          <img src="halfimage.png" alt="" />
         </div>
       </div>
     </section>

@@ -5,10 +5,7 @@ function Footeer() {
     <section>
       <div className="bg-[#191A23] w-full lg:w-[80%] mx-auto lg:rounded-tl-4xl lg:rounded-tr-4xl  ">
         <div className="w-full lg:w-[95%] mx-auto flex flex-col lg:flex-row justify-around items-center pt-7 mb-5 lg:mb-15">
-          <img
-            src="/src/assets/images/whitelogo.png"
-            className="mb-7 lg:mb0 cursor-pointer"
-          />
+          <img src="whitelogo.png" className="mb-7 lg:mb0 cursor-pointer" />
           <ul className="text-white flex flex-col lg:flex-row justify-between items-center gap-5 cursor-pointer  ">
             <li className="relative group">
               About us
@@ -33,9 +30,9 @@ function Footeer() {
           </ul>
           <div className="hidden lg:block">
             <div className="flex justify-between items-center gap-2 cursor-pointer ">
-              <img src="/src/assets/images/linkedin.png" alt="" />
-              <img src="/src/assets/images/facebook.png" alt="" />
-              <img src="/src/assets/images/twitter.png" alt="" />
+              <img src="linkedin.png" alt="" />
+              <img src="facebook.png" alt="" />
+              <img src="twitter.png" alt="" />
             </div>
           </div>
         </div>
@@ -62,9 +59,9 @@ function Footeer() {
           </div>
         </div>
         <div className="flex justify-center items-center gap-4 lg:hidden cursor-pointer ">
-          <img src="/src/assets/images/linkedin.png" alt="" />
-          <img src="/src/assets/images/facebook.png" alt="" />
-          <img src="/src/assets/images/twitter.png" alt="" />
+          <img src="linkedin.png" alt="" />
+          <img src="facebook.png" alt="" />
+          <img src="twitter.png" alt="" />
         </div>
 
         <div className="border-t border-white border-th my-14 w-[87%] mx-auto "></div>

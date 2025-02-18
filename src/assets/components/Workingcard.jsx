@@ -15,9 +15,9 @@ function Workingcard({ number, question, parag }) {
           <p className="text-2xl md:text-2xl lg:text-3xl ">{question}</p>
         </div>
         {accordionOpen ? (
-          <img src="/src/assets/images/minusicon.png" className="w-[50px]" />
+          <img src="minusicon.png" className="w-[50px]" />
         ) : (
-          <img src="/src/assets/images/plusicon.png" className="w-[50px]" />
+          <img src="plusicon.png" className="w-[50px]" />
         )}
       </div>
       <div

@@ -16,7 +16,7 @@ function Sponsors() {
           <img
             className="mx-[23px] my-[10px] grayscale cursor-pointer"
             key={item}
-            src={`/src/assets/images/${item.img}`}
+            src={`${item.img}`}
             alt=""
           />
         ))}

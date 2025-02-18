@@ -4,7 +4,7 @@ function Home() {
       <div className="w-[85%] mx-auto flex flex-col md:flex-row justify-between items-center mt-[50px] mb-20 ">
         <div className="w-[400px] md:w-[700px] max-w-full md:order-2">
           <img
-            src="/src/assets/images/illustration.png"
+            src="Illustration.png"
             className="w-full h-fit
           "
           />

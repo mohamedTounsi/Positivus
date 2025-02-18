@@ -14,12 +14,12 @@ function ServiceBox({ title, titlebg, arrow, bgcolor, learnMore, image }) {
           {title}
         </p>
         <div className="flex justify-start items-center gap-3 ">
-          <img src={`/src/assets/images/${arrow}.png`} alt="" />
+          <img src={`${arrow}.png`} alt="" />
           <p className="font-semibold">{learnMore}</p>
         </div>
       </div>
       <div>
-        <img src={`/src/assets/images/${image}.png`} alt="" />
+        <img src={`${image}.png`} alt="" />
       </div>
     </div>
   );
